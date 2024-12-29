@@ -86,7 +86,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## SEO Meta Tags (HTML for website headers):
 
-```html
+
 <!-- Basic Meta Tags -->
 <meta name="robots" content="index, follow">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
